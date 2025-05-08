@@ -1,6 +1,7 @@
-# CS180-LeModel
+# LeModel
 CS 180 Final Project Repository  
-Starters:  
+  
+Team Lebron James starters:  
 Jason Alcantara  
 Karl Andrei Alcober  
 Cedric John De Vera
